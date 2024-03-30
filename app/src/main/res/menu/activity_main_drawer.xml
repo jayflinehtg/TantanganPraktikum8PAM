@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inboxes"
+            android:icon="@drawable/inbox_alt_svgrepo_com"
+            android:title="All Inboxes" />
+        <item
+            android:id="@+id/nav_social"
+            android:icon="@drawable/people_svgrepo_com"
+            android:title="Socials" />
+        <item
+            android:id="@+id/nav_archive"
+            android:icon="@drawable/archive_svgrepo_com"
+            android:title="Archive" />
+        <item
+            android:id="@+id/nav_sent"
+            android:icon="@drawable/sent_mail_svgrepo_com"
+            android:title="Sent" />
+        <item
+            android:id="@+id/nav_trashcan"
+            android:icon="@drawable/trash_alt_svgrepo_com"
+            android:title="Trash" />
+    </group>
+</menu>

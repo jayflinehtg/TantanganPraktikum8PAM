@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Jay-Mail</string>
+    <string name="info_person_icon">Gambar Profil Orang</string>
+    <string name="info_person_name">Nama Pengirim</string>
+    <string name="info_isi_pesan">Pesan</string>
+
+    <string-array name="person_icon">
+        <item>@drawable/person1</item>
+        <item>@drawable/person2</item>
+        <item>@drawable/person3</item>
+        <item>@drawable/person4</item>
+        <item>@drawable/person5</item>
+        <item>@drawable/person6</item>
+    </string-array>
+
+    <string-array name="person_name">
+        <item>Rokyanto</item>
+        <item>Marie</item>
+        <item>Nivatar</item>
+        <item>Go Youn Jung</item>
+        <item>Felicia</item>
+        <item>Han So Hee</item>
+    </string-array>
+
+    <string-array name="isi_pesan">
+        <item>Ayo nonton anime⚔️</item>
+        <item>Mau ga jadi pacar ku?💕💋</item>
+        <item>Negara Api membuat ku gosong</item>
+        <item>Sebenarnya aku suka sama kamu &#60;3</item>
+        <item>Temenin aku ke pajak dong</item>
+        <item>Aku udah di depan nih💓</item>
+    </string-array>
+</resources>
